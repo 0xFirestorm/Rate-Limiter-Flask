@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+env/
+venv/
+
+redis.conf
+
+Thumbs.db
+ehthumbs.db
+
+.vscode/
+
